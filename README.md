@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy Inc.
 
 ## Purpose
 
@@ -14,4 +14,5 @@ https://kt946.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Kyle Tang
 
-# Run Buddy Inc.
+
+### ©️2019 Run Buddy, Inc
