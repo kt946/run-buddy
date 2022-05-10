@@ -333,6 +333,7 @@ section {
     font-size: 16px;
 }
 
+/* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
 @media screen and (max-width: 980px) {
     header {
         padding-bottom: 0;
@@ -368,7 +369,7 @@ section {
     }
 
     .section-title {
-        width: 100%;
+        width: 80%;
     }
 
     .trainer {
@@ -380,23 +381,24 @@ section {
     }
 }
 
+/* MEDIA QUERY FOR TABLETS AND SMALLER */
 @media screen and (max-width: 768px) {
     section {
         padding: 30px 15px;
     }
 
-    .steps h3 {
+    .step h3 {
         flex: 1 100%;
         text-align: center;
     }
 
-    .steps-info {
+    .step-info {
         flex: 2 100%;
         text-align: center;
         justify-content: center;
     }
 
-    .steps-img {
+    .step-img {
         flex: 0 32%;
         margin-right: 0;
         margin-top: 15px;
@@ -408,16 +410,17 @@ section {
     }
 }
 
+/* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
 @media screen and (max-width: 575px) {
     .hero-form button {
         width: 100%;
     }
 
-    .secton-title {
+    .section-title {
         width: 95%;
     }
 
-    .into p {
+    .intro p {
         width: 100%;
     }
 
